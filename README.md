@@ -5,7 +5,7 @@
 
 :point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down: <br>
 :point_right::point_right::point_right::point_right::point_right::point_right: 
-[Just look at that](defur.github.io/MyLab2/) 
+[Just look at that](https://defur.github.io/MyLab2/) 
 :point_left::point_left::point_left::point_left::point_left::point_left:<br>
 :point_up_2::middle_finger::point_up_2::point_up_2::middle_finger::point_up_2::middle_finger::point_up_2::middle_finger::middle_finger::point_up_2::point_up_2::point_up_2::point_up_2::point_up_2::point_up_2::point_up_2::point_up_2::point_up_2::middle_finger::point_up_2::point_up_2::middle_finger::middle_finger:
 
